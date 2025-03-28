@@ -22,8 +22,8 @@ Welcome to my portfolio website repository! This project showcases my skills, pr
 ## Contact
 If you have any questions or suggestions, feel free to reach out to me:
 - **Email:** manishbavne2703@gmail.com
-- **LinkedIn:** 
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **LinkedIn:** www.linkedin.com/in/manish-bavne-7894182b8
+
 
 Thank you for visiting my portfolio repository! 🚀
   
